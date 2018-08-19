@@ -15,6 +15,11 @@ namespace YMS5529_MVC_Sepet.Controllers
         {
             return View();
         }
+        /// <summary>
+        /// aaaaaaaaaaaaaaaaaaaaaaaaaaa
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public ActionResult add(int id)
         {
             Product sepetEklenecekUrun = db.Products.Find(id);
