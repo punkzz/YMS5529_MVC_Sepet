@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row" style="margin-top:50px;">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="col-lg-12">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Ad</th>
+                            <th>Fiyat</th>
+                            <th>miktar</th>
+                            <th>toplam</th>
+                            <th>işlem</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="line-height:40px;">ID</td>
+                            <td style="line-height:40px;">AD</td>
+                            <td style="line-height:40px;">FİYAT</td>
+                            <td style="line-height:40px;">MİKTAR</td>
+                            <td style="line-height:40px;">TUTAR</td>
+                            <td style="line-height:40px;">TOPLAM TUTAR</td>
+                            <td style="line-height:40px;"></td>
+                            <img width="40" height="40" src="~/Content/images/Add.png"onclick=""
+                                 data-toggle="tooltip" data-placement="right" title="Arttır">
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="col-lg-6 col-lg-offset-6">
+            <label>odeme ok:<span id="totalcount"></span></label>
+        </div>
+    </div>
+</div>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<script>
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+    })
+    $(document).ready(function () {
+
+        $.cart = {
+            list: function () {
+
+            },
+            Increase: function (Id) {
+                $.ajax({
+                    type: "post",
+                    dataType: "Json",
+                    url: "@Url.Action("IncreaseCart","Cart")/" + Id,
+                    success: function (data) {
+                        $.cart.list();
+                    },
+                    Descrease: function (Id) {
+                        $.ajax({
+                            type: "post",
+                            dataType: "Json",
+                            url: "@Url.Action("DescreaseCart","Cart")/" + Id,
+                            success: function (data) {
+                                $.cart.list();
+
+                            },
+                            Remove : function () {
+                                $.ajax({
+                                    type: "post",
+                                    dataType: "Json",
+                                    url: "@Url.Action("RemoveCart","Cart")/" + Id,
+                                    success: function (data) {
+                                        $.cart.list();
+                                    
+
+
+
+                                    }
+                                })
+
+
+                            2

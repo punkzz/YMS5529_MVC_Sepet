@@ -1,0 +1,74 @@
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\csc.exe
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\System.Collections.Immutable.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\vbc.exe
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\VBCSCompiler.exe
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\VBCSCompiler.exe.config
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\YMS5529_MVC_Sepet.dll.config
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\YMS5529_MVC_Sepet.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\YMS5529_MVC_Sepet.pdb
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.SqlServer.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\Microsoft.Web.Infrastructure.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Helpers.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Mvc.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Razor.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Deployment.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Razor.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.SqlServer.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Razor.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Deployment.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Razor.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Helpers.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Mvc.xml
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\obj\Debug\YMS5529_MVC_Sepet.csprojResolveAssemblyReference.cache
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\obj\Debug\YMS5529_MVC_Sepet.dll
+D:\Bilge Adam Projeler\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\obj\Debug\YMS5529_MVC_Sepet.pdb
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\csc.exe
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\vbc.exe
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\VBCSCompiler.exe
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\YMS5529_MVC_Sepet.dll.config
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\YMS5529_MVC_Sepet.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\YMS5529_MVC_Sepet.pdb
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.SqlServer.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Helpers.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Mvc.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Razor.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Razor.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\EntityFramework.SqlServer.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Razor.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Webpages.Razor.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Helpers.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\bin\System.Web.Mvc.xml
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\obj\Debug\YMS5529_MVC_Sepet.csprojResolveAssemblyReference.cache
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\obj\Debug\YMS5529_MVC_Sepet.dll
+C:\Users\seyda.bodur\Desktop\YMS5529_MVC_Sepet\YMS5529_MVC_Sepet\obj\Debug\YMS5529_MVC_Sepet.pdb
